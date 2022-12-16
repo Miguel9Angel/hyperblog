@@ -1,3 +1,2 @@
 Esta es la historia del Curso de GIT
-Ahora con cambios
-Nuevos cambios realizados
+Volvimos a la version incial y la midficamos para volver a actulizar el archivo
